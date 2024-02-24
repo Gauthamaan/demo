@@ -1,2 +1,2 @@
 # demo
-this is the first line of my day
+this is a text file
